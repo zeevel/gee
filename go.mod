@@ -1,3 +1,3 @@
-module gitee.com/zeevel/gee
+module github.com/zeevel/gee
 
 go 1.15
